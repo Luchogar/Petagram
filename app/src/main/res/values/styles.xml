@@ -12,4 +12,9 @@
         <item name="android:colorControlHighlight">@color/TextoTitulo</item>
         <item name="android:textColor">@color/TextoTitulo</item>
     </style>
+    <style name="kaributton" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/TextoTitulo</item>
+        <item name="android:textColor">@color/TextoTitulo</item>
+    </style>
 </resources>
