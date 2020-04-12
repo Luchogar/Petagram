@@ -14,13 +14,13 @@
         android:id="@+id/texto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/barrio" />
+        android:text="@string/alo" />
 
     <Button
         android:id="@+id/MiBoton"
         android:layout_below="@id/texto"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/rouss"
+        android:text="@string/clic"
         android:theme="@style/RaisedButton" />
 </RelativeLayout>
